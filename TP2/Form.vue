@@ -32,7 +32,7 @@ export default defineComponent({
             if (this.nom && this.person && this.Date && this.email){
 
             
-
+        
             }
         }
     }
