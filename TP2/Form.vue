@@ -31,7 +31,8 @@ export default defineComponent({
         hideForm() {
             if (this.nom && this.person && this.Date && this.email){
 
-                
+            
+
             }
         }
     }
