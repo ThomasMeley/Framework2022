@@ -20,7 +20,7 @@ export default defineComponent({
     monted() {
         axios.get("https://fges-twitter-clone.herokuapp.com/allTweets", {
             header:{
-            "x-fges-user-key": "VOTRE CLE",
+            "x-fges-user-key": "Vx6pqDRk7GuhaXLMnqmt85jNtoeiyb0a",
         },
     }).then((resultats)=>{
         //gerer vos resultats ici
